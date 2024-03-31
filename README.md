@@ -41,3 +41,6 @@ cost of operation for theatre if any,
 3. To improve the quality of record-keeping in the hospital
 4. Timely access to patient and personnel records
 5. To increase compliance with Data Protection regulation in healthcare
+
+## ER Diagram
+![link](https://github.com/Ds2023/Hospital-Database-Design/blob/main/Hospital%20ER%20Diagram.png)
