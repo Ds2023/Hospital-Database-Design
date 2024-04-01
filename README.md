@@ -43,4 +43,4 @@ cost of operation for theatre if any,
 5. To increase compliance with Data Protection regulation in healthcare
 
 ## ER Diagram
-![link](https://github.com/Ds2023/Hospital-Database-Design/blob/main/Hospital%20ER%20Diagram.png)
+![link](https://github.com/Ds2023/Hospital-Database-Design/blob/main/Hospital_ER_Diagram2.drawio.png)
