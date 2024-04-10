@@ -44,3 +44,6 @@ cost of operation for theatre if any,
 
 ## ER Diagram
 ![link](https://github.com/Ds2023/Hospital-Database-Design/blob/main/Hospital_ER_Diagram2.drawio.png)
+
+## Relational Model
+![link](https://github.com/Ds2023/Hospital-Database-Design/blob/main/Hospital_Relational_Model.png)
