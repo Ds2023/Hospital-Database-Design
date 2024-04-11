@@ -41,9 +41,13 @@ cost of operation for theatre if any,
 3. To improve the quality of record-keeping in the hospital
 4. Timely access to patient and personnel records
 5. To increase compliance with Data Protection regulation in healthcare
-
+   
+## Part 1
+We come up with an ER diagram from the requirements document. Find the write up and approach in this [blog post](https://datacurious.hashnode.dev/database-creation-from-scratch)
 ## ER Diagram
 ![link](https://github.com/Ds2023/Hospital-Database-Design/blob/main/Hospital_ER_Diagram2.drawio.png)
 
+## Part 2
+We go through mapping out relationships from an ER diagram to a Relational Model. Find a detailed write up of the approach in this [blog post](https://datacurious.hashnode.dev/database-creation-relationship-mapping)
 ## Relational Model
 ![link](https://github.com/Ds2023/Hospital-Database-Design/blob/main/Hospital_Relational_Model.png)
